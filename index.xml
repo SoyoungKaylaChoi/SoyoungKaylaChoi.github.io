@@ -11,6 +11,19 @@
     <atom:link href="jooyoungseo.com/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>test</title>
+      <link>jooyoungseo.com/post/test/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>jooyoungseo.com/post/test/</guid>
+      <description>&lt;p&gt;This is histogram test.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-r hist, fig.height=5, fig.width=5, fig.cap=&amp;quot;Histogram of Ozone.&amp;quot;&#34;&gt;hist(airquality$Ozone, col=&amp;quot;lightgreen&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>jooyoungseo.com/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>

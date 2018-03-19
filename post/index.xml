@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>test</title>
+      <link>jooyoungseo.com/post/test/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>jooyoungseo.com/post/test/</guid>
+      <description>This is histogram test.
+hist(airquality$Ozone, col=&amp;quot;lightgreen&amp;quot;)  </description>
+    </item>
+    
+    <item>
       <title>Academic: the website designer for Hugo</title>
       <link>jooyoungseo.com/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
