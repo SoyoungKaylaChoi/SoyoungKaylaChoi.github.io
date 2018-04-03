@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on JooYoung Seo: a Learning Scientist for Inclusive Learning Ecologies</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on JooYoung Seo: a Learning Scientist for Inclusive Learning Ecologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; JooYoung Seo 2018</copyright>
+    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accessibility, Making and Tactile Robotics: Facilitating Collaborative Learning and Computational Thinking for Learners with Visual Impairments</title>
+      <link>/publication/icls2018/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/icls2018/</guid>
+      <description>This work will be presented in the 13th International Conference of the Learning Sciences in London, UK.</description>
+    </item>
+    
+    <item>
+      <title>Embracing Learners with Visual Impairments in CSCL</title>
+      <link>/publication/cscl2017/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cscl2017/</guid>
+      <description>This work has been presented in the 2017 International Conference on Computer-Supported Collaborative Learning in Philadelphia, US.</description>
+    </item>
+    
+  </channel>
+</rss>
