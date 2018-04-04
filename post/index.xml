@@ -20,8 +20,8 @@
       <guid>/post/initial-post/</guid>
       <description>Three Available Packages Specialized for Visually Impaired R UsersThere are three packages for the blind R users (Godfrey, Warren, Murrell, Bilton, &amp;amp; Sorge, 2018; Seo, 2017; Siegert &amp;amp; Williams, 2017).
 MethodsCreswell (2014) suggests a mixed methods study as a balanced methodology between qualitative and quantitative research.
-Basic HistogramSee Figure ?? made by base R:
-hist(airquality$Ozone, col=&amp;#39;lightgreen&amp;#39;)VI(hist(airquality$Ozone))sonify(1:5, 1:5)GgplotWill be added later soon.</description>
+Basic HistogramSee Figure 1 made by base R:
+hist(airquality$Ozone, col=&amp;#39;lightgreen&amp;#39;)Figure 1: Histogram of Ozone.VI(hist(airquality$Ozone))## This is a histogram, with the title: Histogram of airquality$Ozone## &amp;quot;airquality$Ozone&amp;quot; is marked on the x-axis.</description>
     </item>
     
   </channel>

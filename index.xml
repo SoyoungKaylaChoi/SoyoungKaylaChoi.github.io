@@ -26,9 +26,32 @@
 &lt;/div&gt;
 &lt;div id=&#34;basic-histogram&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Basic Histogram&lt;/h1&gt;
-&lt;p&gt;See Figure &lt;a href=&#34;#fig:test&#34;&gt;&lt;strong&gt;??&lt;/strong&gt;&lt;/a&gt; made by base R:&lt;/p&gt;
+&lt;p&gt;See Figure &lt;a href=&#34;#fig:test&#34;&gt;1&lt;/a&gt; made by base R:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hist(airquality$Ozone, col=&amp;#39;lightgreen&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:test&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/post/2018-04-03-initial-post_files/figure-html/test-1.png&#34; alt=&#34;Histogram of Ozone.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: Histogram of Ozone.
+&lt;/p&gt;
+&lt;/div&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;VI(hist(airquality$Ozone))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2018-04-03-initial-post_files/figure-html/BRL-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;## This is a histogram, with the title: Histogram of airquality$Ozone
+## &amp;quot;airquality$Ozone&amp;quot; is marked on the x-axis.
+## Tick marks for the x-axis are at: 0, 50, 100, and 150 
+## There are a total of 116 elements for this variable.
+## Tick marks for the y-axis are at: 0, 10, 20, and 30 
+## It has 9 bins with equal widths, starting at 0 and ending at 180 .
+## The mids and counts for the bins are:
+## mid = 10  count = 37 
+## mid = 30  count = 34 
+## mid = 50  count = 14 
+## mid = 70  count = 15 
+## mid = 90  count = 9 
+## mid = 110  count = 4 
+## mid = 130  count = 2 
+## mid = 150  count = 0 
+## mid = 170  count = 1&lt;/code&gt;&lt;/pre&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;sonify(1:5, 1:5)&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ggplot&#34; class=&#34;section level1&#34;&gt;
