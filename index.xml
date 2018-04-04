@@ -11,6 +11,51 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Initial Post</title>
+      <link>/post/initial-post/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/initial-post/</guid>
+      <description>&lt;div id=&#34;three-available-packages-specialized-for-visually-impaired-r-users&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Three Available Packages Specialized for Visually Impaired R Users&lt;/h1&gt;
+&lt;p&gt;There are three packages for the blind R users &lt;span class=&#34;citation&#34;&gt;(Godfrey, Warren, Murrell, Bilton, &amp;amp; Sorge, 2018; Seo, 2017; Siegert &amp;amp; Williams, 2017)&lt;/span&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;methods&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Methods&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;citation&#34;&gt;Creswell (2014)&lt;/span&gt; suggests a mixed methods study as a balanced methodology between qualitative and quantitative research.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;basic-histogram&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Basic Histogram&lt;/h1&gt;
+&lt;p&gt;See Figure &lt;a href=&#34;#fig:hist&#34;&gt;&lt;strong&gt;??&lt;/strong&gt;&lt;/a&gt; made by base R:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;(x &amp;lt;- hist(airquality$Ozone, col=&amp;#39;lightgreen&amp;#39;))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;VI(x)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;sonify(1:5, 1:5)&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ggplot&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Ggplot&lt;/h1&gt;
+&lt;p&gt;Will be added later soon.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;references&#34; class=&#34;section level1 unnumbered&#34;&gt;
+&lt;h1&gt;References&lt;/h1&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references&#34;&gt;
+&lt;div id=&#34;ref-creswell2014research&#34;&gt;
+&lt;p&gt;Creswell, J. W. (2014). &lt;em&gt;Research design: Qualitative, quantitative, and mixed methods approaches&lt;/em&gt; (4th ed.). Thousand Oaks, California: SAGE Publications.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-R-BrailleR&#34;&gt;
+&lt;p&gt;Godfrey, A. J. R., Warren, D., Murrell, P., Bilton, T., &amp;amp; Sorge, V. (2018). &lt;em&gt;BrailleR: Improved access for blind users&lt;/em&gt;. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=BrailleR&#34; class=&#34;uri&#34;&gt;https://CRAN.R-project.org/package=BrailleR&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-R-tactileR&#34;&gt;
+&lt;p&gt;Seo, J. (2017). &lt;em&gt;TactileR: Converting an r graphical output into a braille ready-to-print pdf file for visually impaired r users optimized for swell form machine and braille embosser.&lt;/em&gt; Retrieved from &lt;a href=&#34;https://github.com/sjystu/tactileR&#34; class=&#34;uri&#34;&gt;https://github.com/sjystu/tactileR&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-R-sonify&#34;&gt;
+&lt;p&gt;Siegert, S., &amp;amp; Williams, R. (2017). &lt;em&gt;Sonify: Data sonification - turning data into sound&lt;/em&gt;. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=sonify&#34; class=&#34;uri&#34;&gt;https://CRAN.R-project.org/package=sonify&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Accessibility, Making and Tactile Robotics: Facilitating Collaborative Learning and Computational Thinking for Learners with Visual Impairments</title>
       <link>/publication/icls2018/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
@@ -50,23 +95,6 @@
     </item>
     
     <item>
-      <title>test</title>
-      <link>/post/test/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/test/</guid>
-      <description>&lt;p&gt;This is histogram test.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hist(airquality$Ozone, col=&amp;quot;lightgreen&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:hist&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2018-03-19-test_files/figure-html/hist-1.png&#34; alt=&#34;Histogram of Ozone.&#34; width=&#34;480&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: Histogram of Ozone.
-&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Embracing Learners with Visual Impairments in CSCL</title>
       <link>/publication/cscl2017/</link>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
@@ -83,54 +111,6 @@ Figure 1: Histogram of Ozone.
       
       <guid>/talk/example-talk/</guid>
       <description>&lt;p&gt;This panel discussion has been presented in 2017 AECT in Florida.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 </description>
     </item>
     
