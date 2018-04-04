@@ -27,8 +27,8 @@
 &lt;div id=&#34;basic-histogram&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Basic Histogram&lt;/h1&gt;
 &lt;p&gt;See Figure &lt;a href=&#34;#fig:hist&#34;&gt;&lt;strong&gt;??&lt;/strong&gt;&lt;/a&gt; made by base R:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;(x &amp;lt;- hist(airquality$Ozone, col=&amp;#39;lightgreen&amp;#39;))&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;VI(x)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hist(airquality$Ozone, col=&amp;#39;lightgreen&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;VI(hist(airquality$Ozone))&lt;/code&gt;&lt;/pre&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;sonify(1:5, 1:5)&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div id=&#34;ggplot&#34; class=&#34;section level1&#34;&gt;
