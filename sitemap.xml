@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/talk/</loc>
+      <lastmod>2018-04-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/</loc>
       <lastmod>2018-04-03T00:00:00-04:00</lastmod>
     </url>
@@ -88,6 +97,15 @@
     
       <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/nera2016/</loc>
+      <lastmod>2016-10-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -216,16 +234,6 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
