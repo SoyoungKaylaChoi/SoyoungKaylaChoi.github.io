@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JooYoung Seo: a Learning Scientist for Inclusive Learning Ecologies on JooYoung Seo: a Learning Scientist for Inclusive Learning Ecologies</title>
+    <title>Soyoung Choi: a Nursing Scientist for Palliative Care on Soyoung Choi: a Nursing Scientist for Palliative Care</title>
     <link>/</link>
-    <description>Recent content in JooYoung Seo: a Learning Scientist for Inclusive Learning Ecologies on JooYoung Seo: a Learning Scientist for Inclusive Learning Ecologies</description>
+    <description>Recent content in Soyoung Choi: a Nursing Scientist for Palliative Care on Soyoung Choi: a Nursing Scientist for Palliative Care</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; JooYoung Seo 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <copyright>&amp;copy; Soyoung Choi 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -17,74 +17,6 @@
       
       <guid>/project/udl/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Initial Post</title>
-      <link>/post/initial-post/</link>
-      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/initial-post/</guid>
-      <description>&lt;div id=&#34;three-available-packages-specialized-for-visually-impaired-r-users&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Three Available Packages Specialized for Visually Impaired R Users&lt;/h1&gt;
-&lt;p&gt;There are three packages for the blind R users &lt;span class=&#34;citation&#34;&gt;(Godfrey, Warren, Murrell, Bilton, &amp;amp; Sorge, 2018; Seo, 2017; Siegert &amp;amp; Williams, 2017)&lt;/span&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;methods&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Methods&lt;/h1&gt;
-&lt;p&gt;&lt;span class=&#34;citation&#34;&gt;Creswell (2014)&lt;/span&gt; suggests a mixed methods study as a balanced methodology between qualitative and quantitative research.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;basic-histogram&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Basic Histogram&lt;/h1&gt;
-&lt;p&gt;See Figure &lt;a href=&#34;#fig:test&#34;&gt;1&lt;/a&gt; made by base R:&lt;/p&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:test&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2018-04-03-initial-post_files/figure-html/test-1.png&#34; alt=&#34;Histogram of Ozone.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: Histogram of Ozone.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;VI(hist(airquality$Ozone))&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/2018-04-03-initial-post_files/figure-html/BRL-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;## This is a histogram, with the title: Histogram of airquality$Ozone
-## &amp;quot;airquality$Ozone&amp;quot; is marked on the x-axis.
-## Tick marks for the x-axis are at: 0, 50, 100, and 150 
-## There are a total of 116 elements for this variable.
-## Tick marks for the y-axis are at: 0, 10, 20, and 30 
-## It has 9 bins with equal widths, starting at 0 and ending at 180 .
-## The mids and counts for the bins are:
-## mid = 10  count = 37 
-## mid = 30  count = 34 
-## mid = 50  count = 14 
-## mid = 70  count = 15 
-## mid = 90  count = 9 
-## mid = 110  count = 4 
-## mid = 130  count = 2 
-## mid = 150  count = 0 
-## mid = 170  count = 1&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;You can sonify the scatterplot as follows:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;sonify(1:5, 1:5)&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;ggplot&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Ggplot&lt;/h1&gt;
-&lt;p&gt;Will be added later soon.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;references&#34; class=&#34;section level1 unnumbered&#34;&gt;
-&lt;h1&gt;References&lt;/h1&gt;
-&lt;div id=&#34;refs&#34; class=&#34;references&#34;&gt;
-&lt;div id=&#34;ref-creswell2014research&#34;&gt;
-&lt;p&gt;Creswell, J. W. (2014). &lt;em&gt;Research design: Qualitative, quantitative, and mixed methods approaches&lt;/em&gt; (4th ed.). Thousand Oaks, California: SAGE Publications.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;ref-R-BrailleR&#34;&gt;
-&lt;p&gt;Godfrey, A. J. R., Warren, D., Murrell, P., Bilton, T., &amp;amp; Sorge, V. (2018). &lt;em&gt;BrailleR: Improved access for blind users&lt;/em&gt;. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=BrailleR&#34; class=&#34;uri&#34;&gt;https://CRAN.R-project.org/package=BrailleR&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;ref-R-tactileR&#34;&gt;
-&lt;p&gt;Seo, J. (2017). &lt;em&gt;TactileR: Converting an r graphical output into a braille ready-to-print pdf file for visually impaired r users optimized for swell form machine and braille embosser.&lt;/em&gt; Retrieved from &lt;a href=&#34;https://github.com/sjystu/tactileR&#34; class=&#34;uri&#34;&gt;https://github.com/sjystu/tactileR&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;ref-R-sonify&#34;&gt;
-&lt;p&gt;Siegert, S., &amp;amp; Williams, R. (2017). &lt;em&gt;Sonify: Data sonification - turning data into sound&lt;/em&gt;. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=sonify&#34; class=&#34;uri&#34;&gt;https://CRAN.R-project.org/package=sonify&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
     </item>
     
     <item>
@@ -139,7 +71,7 @@ Figure 1: Histogram of Ozone.
     <item>
       <title>The Rapidly Changing World of Accessible Online Learning</title>
       <link>/talk/aect2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
       <guid>/talk/aect2017/</guid>
       <description>&lt;p&gt;This panel discussion has been presented in 2017 AECT in Florida.&lt;/p&gt;
