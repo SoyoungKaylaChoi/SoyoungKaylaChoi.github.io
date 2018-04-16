@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Soyoung Choi 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -49,16 +49,6 @@
     </item>
     
     <item>
-      <title>The Intersections of Equity, Inclusivity and Accessibility in Game-Based Learning: Proposing a Tripartite Framework for Research and Design</title>
-      <link>/publication/bjet2018/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/bjet2018/</guid>
-      <description>&lt;p&gt;This paper will be published in July, 2018 in British Journal of Educational Technology.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Embracing Learners with Visual Impairments in CSCL</title>
       <link>/publication/cscl2017/</link>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
@@ -71,7 +61,7 @@
     <item>
       <title>The Rapidly Changing World of Accessible Online Learning</title>
       <link>/talk/aect2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/talk/aect2017/</guid>
       <description>&lt;p&gt;This panel discussion has been presented in 2017 AECT in Florida.&lt;/p&gt;
