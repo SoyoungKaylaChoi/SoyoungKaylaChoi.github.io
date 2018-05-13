@@ -7,18 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Soyoung Choi 2018</copyright>
-    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Intersections of Equity, Inclusivity and Accessibility in Game-Based Learning: Proposing a Tripartite Framework for Research and Design</title>
-      <link>/publication/bjet2018/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Evolutionary Concept Analysis of Spirituality</title>
+      <link>/publication/spirituality2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/bjet2018/</guid>
-      <description>This paper will be published in July, 2018 in British Journal of Educational Technology.</description>
+      <guid>/publication/spirituality2017/</guid>
+      <description>This work has been presented in the 2017 International Conference on Computer-Supported Collaborative Learning in Philadelphia, US.</description>
+    </item>
+    
+    <item>
+      <title>The Influence of Self-care agency and Social support as factors influencing Self-care practice in Spinal cord injured patients</title>
+      <link>/publication/sci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/sci/</guid>
+      <description>This work will be presented in the 13th International Conference of the Learning Sciences in London, UK.</description>
     </item>
     
   </channel>

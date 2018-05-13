@@ -32,15 +32,6 @@
     
     <url>
     
-      <loc>/publication/icls2018/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/project/meta-analysis-using-r/</loc>
       <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     </url>
@@ -68,15 +59,6 @@
     
     <url>
     
-      <loc>/publication/cscl2017/</loc>
-      <lastmod>2017-06-21T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/talk/aect2017/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
@@ -95,17 +77,7 @@
     
     <url>
     
-      <loc>/publication/nera2016/</loc>
-      <lastmod>2016-10-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+      <loc>/publication_types/2/</loc>
       <priority>0</priority>
     </url>
     
@@ -126,6 +98,14 @@
     
       <loc>/categories/</loc>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/spirituality2017/</loc>
     </url>
     
   
@@ -174,7 +154,6 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -206,6 +185,14 @@
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/sci/</loc>
     </url>
     
   
