@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>/project/udl/</loc>
+      <loc>/project/perception-of-illness-and-uncertainty-in-hf-population/</loc>
       <lastmod>2018-04-07T00:00:00+00:00</lastmod>
     </url>
     
@@ -24,7 +24,7 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2018-04-03T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-03T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>/project/inclusive-makerspaces/</loc>
+      <loc>/project/meta-analysis-using-r/</loc>
       <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     </url>
     
@@ -78,7 +78,7 @@
     <url>
     
       <loc>/talk/aect2017/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -114,16 +114,6 @@
     
     <url>
     
-      <loc>/tags/accessibility/</loc>
-      <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/cscl/</loc>
       <lastmod>2018-04-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -143,7 +133,7 @@
     
     <url>
     
-      <loc>/tags/dis/abilities/</loc>
+      <loc>/tags/heart-failure/</loc>
       <lastmod>2018-04-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -153,58 +143,18 @@
     
     <url>
     
-      <loc>/tags/equity/</loc>
+      <loc>/tags/meta-analysis/</loc>
+      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/perception-of-illness/</loc>
       <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/inclusivity/</loc>
-      <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/maker/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/maker-movement/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/makerspaces/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/making/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -233,8 +183,18 @@
     
     <url>
     
+      <loc>/tags/r/</loc>
+      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <lastmod>2017-10-15T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -253,27 +213,7 @@
     
     <url>
     
-      <loc>/tags/udl/</loc>
-      <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/universal-design/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/universal-design-for-learning/</loc>
+      <loc>/tags/uncertainty/</loc>
       <lastmod>2018-04-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
