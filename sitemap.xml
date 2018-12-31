@@ -23,8 +23,17 @@
     
     <url>
     
+      <loc>/conferences/</loc>
+      <lastmod>2018-04-03T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/</loc>
-      <lastmod>2018-04-03T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-03T00:00:00+09:00</lastmod>
     </url>
     
   
@@ -59,8 +68,8 @@
     
     <url>
     
-      <loc>/talk/aect2017/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <loc>/tags/academic/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -68,8 +77,8 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>/talk/aect2017/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
     </url>
     
   
@@ -121,6 +130,36 @@
     
     <url>
     
+      <loc>/tags/heart-failure/</loc>
+      <lastmod>2018-04-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/meta-analysis/</loc>
+      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/perception-of-illness/</loc>
+      <lastmod>2018-04-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/</loc>
       <priority>0</priority>
     </url>
@@ -151,7 +190,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <lastmod>2017-10-15T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -171,36 +210,6 @@
     <url>
     
       <loc>/publication/sci_2017/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/heart-failure/</loc>
-      <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/meta-analysis/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/perception-of-illness/</loc>
-      <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
