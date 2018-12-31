@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meta-analysis on Soyoung Choi</title>
+    <title>meta-analysis on Soyoung Choi</title>
     <link>/tags/meta-analysis/</link>
-    <description>Recent content in Meta-analysis on Soyoung Choi</description>
+    <description>Recent content in meta-analysis on Soyoung Choi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Soyoung Choi 2018</copyright>
@@ -14,10 +14,10 @@
     
     <item>
       <title>Meta-analysis Using R</title>
-      <link>/project/meta-analysis-using-r/</link>
+      <link>/resource/meta-analysis-using-r/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/meta-analysis-using-r/</guid>
+      <guid>/resource/meta-analysis-using-r/</guid>
       <description></description>
     </item>
     
