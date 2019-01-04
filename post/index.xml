@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Soyoung Choi 2018</copyright>
-    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Initial Post</title>
+      <link>/post/initial-post/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/initial-post/</guid>
+      <description>IntroductionHello, today I want to talk about blah blah.
+A increases B (Choi &amp;amp; Seo, 2018).
+Choi &amp;amp; Seo (2018) have explored blah blah.
+Literature ReviewCaregiverPalliative CaregivingThe following illustrates the histogram of xx:
+hist(airquality$Ozone, col=&amp;quot;blue&amp;quot;)ReferencesChoi, S., &amp;amp; Seo, J. (2018). Effects of nonpharmacological interventions for fatigue in patients with heart failure: A systematic review and meta-analysis. Journal of Cardiac Failure, 24(8), S73–S74.</description>
+    </item>
     
   </channel>
 </rss>

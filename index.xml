@@ -7,8 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Soyoung Choi 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Initial Post</title>
+      <link>/post/initial-post/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/initial-post/</guid>
+      <description>
+
+
+&lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Hello, today I want to talk about blah blah.&lt;/p&gt;
+&lt;p&gt;A increases B &lt;span class=&#34;citation&#34;&gt;(Choi &amp;amp; Seo, 2018)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;citation&#34;&gt;Choi &amp;amp; Seo (2018)&lt;/span&gt; have explored blah blah.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;literature-review&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Literature Review&lt;/h1&gt;
+&lt;div id=&#34;caregiver&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Caregiver&lt;/h2&gt;
+&lt;div id=&#34;palliative-caregiving&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Palliative Caregiving&lt;/h3&gt;
+&lt;p&gt;The following illustrates the histogram of xx:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hist(airquality$Ozone, col=&amp;quot;blue&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2018-04-03-initial-post_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;references&#34; class=&#34;section level1 unnumbered&#34;&gt;
+&lt;h1&gt;References&lt;/h1&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references&#34;&gt;
+&lt;div id=&#34;ref-choi2018effects&#34;&gt;
+&lt;p&gt;Choi, S., &amp;amp; Seo, J. (2018). Effects of nonpharmacological interventions for fatigue in patients with heart failure: A systematic review and meta-analysis. &lt;em&gt;Journal of Cardiac Failure&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(8), S73–S74.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Perception of illness and Uncertainty in Patients with Heart Failure</title>
@@ -39,10 +77,10 @@
     
     <item>
       <title>The Rapidly Changing World of Accessible Online Learning</title>
-      <link>/talk/aect2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+      <link>/talk/conferencetest/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/talk/aect2017/</guid>
+      <guid>/talk/conferencetest/</guid>
       <description>&lt;p&gt;This panel discussion has been presented in 2017 AECT in Florida.&lt;/p&gt;
 </description>
     </item>
