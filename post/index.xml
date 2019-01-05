@@ -25,18 +25,5 @@ Choi and Seo (2018) have explored blah blah.
 hist(airquality$Ozone, col=&amp;quot;blue&amp;quot;)ReferencesChoi, Soyoung, and JooYoung Seo. 2018. “Effects of Nonpharmacological Interventions for Fatigue in Patients with Heart Failure: A Systematic Review and Meta-Analysis.” Journal of Cardiac Failure 24 (8).</description>
     </item>
     
-    <item>
-      <title>Initial Post</title>
-      <link>/post/initial-post/</link>
-      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/initial-post/</guid>
-      <description> Introduction Hello, today I want to talk about blah blah.
-A increases B [@choi2018effects].
-@choi2018effects have explored blah blah.
-Literature Review Caregiver Palliative Caregiving The following illustrates the histogram of xx:
-hist(airquality$Ozone, col=&amp;quot;blue&amp;quot;)  References </description>
-    </item>
-    
   </channel>
 </rss>

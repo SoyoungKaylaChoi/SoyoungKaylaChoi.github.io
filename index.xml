@@ -58,39 +58,6 @@
     </item>
     
     <item>
-      <title>Initial Post</title>
-      <link>/post/initial-post/</link>
-      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/initial-post/</guid>
-      <description>
-
-&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;Hello, today I want to talk about blah blah.&lt;/p&gt;
-
-&lt;p&gt;A increases B [@choi2018effects].&lt;/p&gt;
-
-&lt;p&gt;@choi2018effects have explored blah blah.&lt;/p&gt;
-
-&lt;h1 id=&#34;literature-review&#34;&gt;Literature Review&lt;/h1&gt;
-
-&lt;h2 id=&#34;caregiver&#34;&gt;Caregiver&lt;/h2&gt;
-
-&lt;h3 id=&#34;palliative-caregiving&#34;&gt;Palliative Caregiving&lt;/h3&gt;
-
-&lt;p&gt;The following illustrates the histogram of xx:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;hist(airquality$Ozone, col=&amp;quot;blue&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;2018-04-03-initial-post_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Effects of Nonpharmacological Interventions for Fatigue in Patients with Heart Failure: A Systematic Review and Meta-Analysis</title>
       <link>/publication/fatiguehf_2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
