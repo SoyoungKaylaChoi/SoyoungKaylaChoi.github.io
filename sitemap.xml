@@ -14,15 +14,6 @@
     
     <url>
     
-      <loc>/resource/perception-of-illness-and-uncertainty-in-hf-population/</loc>
-      <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/talk/</loc>
       <lastmod>2018-04-06T00:00:00+00:00</lastmod>
     </url>
@@ -34,15 +25,6 @@
     
       <loc>/post/</loc>
       <lastmod>2018-04-03T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/resource/meta-analysis-using-r/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -86,8 +68,34 @@
     
     <url>
     
+      <loc>/publication_types/1/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/2/</loc>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/3/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/caregiverburden/</loc>
     </url>
     
   
@@ -122,7 +130,15 @@
     
     <url>
     
-      <loc>/publication/spirituality_2017/</loc>
+      <loc>/publication/fatiguehf/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/spirituality/</loc>
     </url>
     
   
@@ -139,18 +155,8 @@
     
     <url>
     
-      <loc>/tags/r/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/resource/</loc>
-      <lastmod>2018-04-07T00:00:00+00:00</lastmod>
+      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -179,47 +185,7 @@
     
     <url>
     
-      <loc>/publication/sci_2017/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/heart-failure/</loc>
-      <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/meta-analysis/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/perception-of-illness/</loc>
-      <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/uncertainty/</loc>
-      <lastmod>2018-04-07T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>/publication/selfcaresci/</loc>
     </url>
     
   

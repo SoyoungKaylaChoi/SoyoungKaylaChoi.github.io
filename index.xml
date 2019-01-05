@@ -49,24 +49,6 @@
     </item>
     
     <item>
-      <title>Perception of illness and Uncertainty in Patients with Heart Failure</title>
-      <link>/resource/perception-of-illness-and-uncertainty-in-hf-population/</link>
-      <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/resource/perception-of-illness-and-uncertainty-in-hf-population/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meta-analysis Using R</title>
-      <link>/resource/meta-analysis-using-r/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/resource/meta-analysis-using-r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Text-mining</title>
       <link>/resource/text-mining/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
@@ -86,33 +68,48 @@
     </item>
     
     <item>
+      <title>Analysis of Caregiver Burden in Palliative Care: An Integrated Review</title>
+      <link>/publication/caregiverburden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/caregiverburden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Current Pharmacogenetic Approach for Oxaliplatin-induced Peripheral Neuropathy among Patients with Colorectal Cancer: A Systematic Review</title>
       <link>/publication/oxaliplatin_2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publication/oxaliplatin_2017/</guid>
-      <description>&lt;p&gt;This work has been presented in the 2017 International Conference on Computer-Supported Collaborative Learning in Philadelphia, US.&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Nonpharmacological Interventions for Fatigue in Patients with Heart Failure: A Systematic Review and Meta-Analysis</title>
+      <link>/publication/fatiguehf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fatiguehf/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Evolutionary Concept Analysis of Spirituality</title>
-      <link>/publication/spirituality_2017/</link>
+      <link>/publication/spirituality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/spirituality_2017/</guid>
-      <description>&lt;p&gt;This work has been presented in the 2017 International Conference on Computer-Supported Collaborative Learning in Philadelphia, US.&lt;/p&gt;
-</description>
+      <guid>/publication/spirituality/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>The Influence of Self-care agency and Social support as factors influencing Self-care practice in Spinal cord injured patients</title>
-      <link>/publication/sci_2017/</link>
+      <title>The Influence of Self-care Agency and Social Support as Factors Influencing Self-care Practice in Spinal Cord Injured Patients</title>
+      <link>/publication/selfcaresci/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/sci_2017/</guid>
-      <description>&lt;p&gt;This work will be presented in the 13th International Conference of the Learning Sciences in London, UK.&lt;/p&gt;
-</description>
+      <guid>/publication/selfcaresci/</guid>
+      <description></description>
     </item>
     
   </channel>
