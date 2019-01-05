@@ -24,7 +24,7 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2018-04-03T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-03T00:00:00+09:00</lastmod>
     </url>
     
   
@@ -50,8 +50,8 @@
     
     <url>
     
-      <loc>/talk/conferencetest/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <loc>/tags/academic/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -59,8 +59,8 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>/talk/conferencetest/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
     </url>
     
   
@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>/publication/caregiverburden/</loc>
+      <loc>/publication/caregiverburden_2019/</loc>
     </url>
     
   
@@ -130,7 +130,7 @@
     
     <url>
     
-      <loc>/publication/fatiguehf/</loc>
+      <loc>/publication/fatiguehf_2018/</loc>
     </url>
     
   
@@ -138,7 +138,7 @@
     
     <url>
     
-      <loc>/publication/spirituality/</loc>
+      <loc>/publication/spirituality_2017/</loc>
     </url>
     
   
@@ -166,7 +166,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <lastmod>2017-10-15T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -185,7 +185,7 @@
     
     <url>
     
-      <loc>/publication/selfcaresci/</loc>
+      <loc>/publication/selfcaresci_2017/</loc>
     </url>
     
   
