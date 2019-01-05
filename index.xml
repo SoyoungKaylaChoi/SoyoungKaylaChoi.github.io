@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Soyoung Choi 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Analysis of Caregiver Burden in Palliative Care: An Integrated Review</title>
+      <link>/publication/caregiverburden_2019/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/caregiverburden_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Initial Post</title>
@@ -22,8 +31,8 @@
 &lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;Hello, today I want to talk about blah blah.&lt;/p&gt;
-&lt;p&gt;A increases B &lt;span class=&#34;citation&#34;&gt;(Choi &amp;amp; Seo, 2018)&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;citation&#34;&gt;Choi &amp;amp; Seo (2018)&lt;/span&gt; have explored blah blah.&lt;/p&gt;
+&lt;p&gt;A increases B &lt;span class=&#34;citation&#34;&gt;(Choi and Seo 2018)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;citation&#34;&gt;Choi and Seo (2018)&lt;/span&gt; have explored blah blah.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;literature-review&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Literature Review&lt;/h1&gt;
@@ -41,7 +50,7 @@
 &lt;h1&gt;References&lt;/h1&gt;
 &lt;div id=&#34;refs&#34; class=&#34;references&#34;&gt;
 &lt;div id=&#34;ref-choi2018effects&#34;&gt;
-&lt;p&gt;Choi, S., &amp;amp; Seo, J. (2018). Effects of nonpharmacological interventions for fatigue in patients with heart failure: A systematic review and meta-analysis. &lt;em&gt;Journal of Cardiac Failure&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(8), S73–S74.&lt;/p&gt;
+&lt;p&gt;Choi, Soyoung, and JooYoung Seo. 2018. “Effects of Nonpharmacological Interventions for Fatigue in Patients with Heart Failure: A Systematic Review and Meta-Analysis.” &lt;em&gt;Journal of Cardiac Failure&lt;/em&gt; 24 (8). Elsevier: S73–S74.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -51,7 +60,7 @@
     <item>
       <title>Effects of Nonpharmacological Interventions for Fatigue in Patients with Heart Failure: A Systematic Review and Meta-Analysis</title>
       <link>/publication/fatiguehf_2018/</link>
-      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/fatiguehf_2018/</guid>
       <description></description>
@@ -67,28 +76,18 @@
     </item>
     
     <item>
-      <title>The Rapidly Changing World of Accessible Online Learning</title>
-      <link>/talk/conferencetest/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>The Influence of Self-care Agency and Social Support as Factors Influencing Self-care Practice in Spinal Cord Injured Patients</title>
+      <link>/publication/selfcaresci_2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/conferencetest/</guid>
-      <description>&lt;p&gt;This panel discussion has been presented in 2017 AECT in Florida.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Analysis of Caregiver Burden in Palliative Care: An Integrated Review</title>
-      <link>/publication/caregiverburden_2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/caregiverburden_2019/</guid>
+      <guid>/publication/selfcaresci_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Current Pharmacogenetic Approach for Oxaliplatin-induced Peripheral Neuropathy among Patients with Colorectal Cancer: A Systematic Review</title>
       <link>/publication/oxaliplatin_2017/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/oxaliplatin_2017/</guid>
       <description></description>
@@ -97,19 +96,20 @@
     <item>
       <title>Evolutionary Concept Analysis of Spirituality</title>
       <link>/publication/spirituality_2017/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/spirituality_2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Influence of Self-care Agency and Social Support as Factors Influencing Self-care Practice in Spinal Cord Injured Patients</title>
-      <link>/publication/selfcaresci_2017/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>The Rapidly Changing World of Accessible Online Learning</title>
+      <link>/talk/conferencetest/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
       
-      <guid>/publication/selfcaresci_2017/</guid>
-      <description></description>
+      <guid>/talk/conferencetest/</guid>
+      <description>&lt;p&gt;This panel discussion has been presented in 2017 AECT in Florida.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
