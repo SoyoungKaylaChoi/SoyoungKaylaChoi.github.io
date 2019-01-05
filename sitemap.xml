@@ -59,7 +59,7 @@
     
     <url>
     
-      <loc>/resource/text-mining/</loc>
+      <loc>/resource/rpackage/</loc>
       <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     </url>
     
@@ -88,6 +88,16 @@
     
       <loc>/talk/conferencetest/</loc>
       <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -125,16 +135,6 @@
     
       <loc>/publication_types/3/</loc>
       <lastmod>2019-01-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/cscl/</loc>
-      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

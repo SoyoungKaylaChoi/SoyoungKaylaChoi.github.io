@@ -13,12 +13,13 @@
     
     
     <item>
-      <title>Text-mining</title>
-      <link>/resource/text-mining/</link>
+      <title>Software Development</title>
+      <link>/resource/rpackage/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/resource/text-mining/</guid>
-      <description></description>
+      <guid>/resource/rpackage/</guid>
+      <description>Seo, J., &amp;amp; Choi, S. (2018a). Ezpickr: Import various data file types as a rectangular form using a file picker dialogue box. Retrieved from https://CRAN.R-project.org/package=ezpickr
+Seo, J., &amp;amp; Choi, S. (2018b). Mboxr: Converting an mbox file into a tibble. Retrieved from https://CRAN.R-project.org/package=ezpickr</description>
     </item>
     
   </channel>
