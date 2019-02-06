@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Soyoung Choi 2019</copyright>
-    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book Review</title>
+      <link>/tags/academic/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description>A book titled An American Sickness: How Healthcare Became Big Business and How You Can Take It Back written by Elisabeth Rosenthal covers the serious problems or &amp;ldquo;illnesses� of the American healthcare system. This book is largely divided into two parts: (1) the history of the present illness and review of systems; and (2) diagnosis and treatment: prescriptions for taking back our healthcare. The author describes the current status of overall healthcare system such as insurance, hospitals, pharmaceuticals, medical resources, and medical business and its pitfalls in Part ?</description>
+    </item>
     
     <item>
       <title></title>
@@ -18,15 +27,6 @@
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&#39;</title>
-      <link>/tags/academic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     
