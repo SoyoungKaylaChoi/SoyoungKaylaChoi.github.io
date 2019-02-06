@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>/tags/</loc>
       <lastmod>2018-02-06T00:00:00+00:00</lastmod>
     </url>
     
@@ -200,16 +200,6 @@
     
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2018-02-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
