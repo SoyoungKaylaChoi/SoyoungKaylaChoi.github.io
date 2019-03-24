@@ -196,7 +196,8 @@
     
     <url>
     
-      <loc>/post/31st-enrs-annual-scientific-sessions/</loc>
+      <loc>/categories/</loc>
+      <priority>0</priority>
     </url>
     
   
@@ -204,8 +205,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
-      <priority>0</priority>
+      <loc>/post/enrs-31st-annual-scientific-sessions/</loc>
     </url>
     
   
