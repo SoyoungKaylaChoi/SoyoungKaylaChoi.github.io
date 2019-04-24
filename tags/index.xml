@@ -13,12 +13,21 @@
     
     
     <item>
-      <title></title>
-      <link>/tags/</link>
+      <title>Software Development: Ezpickr (JooYoung Seo &amp; Soyoung Choi)</title>
+      <link>/resource/rpackage1/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/</guid>
-      <description></description>
+      <guid>/resource/rpackage1/</guid>
+      <description>Seo, J., &amp;amp; Choi, S. (2018a). Ezpickr: Import various data file types as a rectangular form using a file picker dialogue box. Retrieved from https://CRAN.R-project.org/package=ezpickr</description>
+    </item>
+    
+    <item>
+      <title>Software Development: Mboxr (JooYoung Seo &amp; Soyoung Choi)</title>
+      <link>/resource/rpackage2/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/resource/rpackage2/</guid>
+      <description>Seo, J., &amp;amp; Choi, S. (2018b). Mboxr: Converting an mbox file into a tibble. Retrieved from https://CRAN.R-project.org/package=mboxr</description>
     </item>
     
   </channel>
