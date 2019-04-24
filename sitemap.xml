@@ -104,15 +104,6 @@
     
     <url>
     
-      <loc>/post/</loc>
-      <lastmod>2018-04-03T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/</loc>
       <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     </url>
@@ -240,7 +231,8 @@
     
     <url>
     
-      <loc>/post/31st-enrs-annual-scientific-sessions/</loc>
+      <loc>/categories/</loc>
+      <priority>0</priority>
     </url>
     
   
@@ -248,7 +240,8 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>/post/</loc>
+      <lastmod>2019-03-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
