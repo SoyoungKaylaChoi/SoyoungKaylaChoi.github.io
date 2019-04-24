@@ -109,14 +109,22 @@
     </item>
     
     <item>
-      <title>Software Development (JooYoung Seo &amp; Soyoung Choi)</title>
-      <link>/resource/rpackage/</link>
+      <title>Software Development: Ezpickr</title>
+      <link>/resource/rpackage1/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/resource/rpackage/</guid>
+      <guid>/resource/rpackage1/</guid>
       <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2018a). Ezpickr: Import various data file types as a rectangular form using a file picker dialogue box. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=ezpickr&#34; target=&#34;_blank&#34;&gt;https://CRAN.R-project.org/package=ezpickr&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2018b). Mboxr: Converting an mbox file into a tibble. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=mboxr&#34; target=&#34;_blank&#34;&gt;https://CRAN.R-project.org/package=mboxr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Development: Mboxr</title>
+      <link>/resource/rpackage2/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/resource/rpackage2/</guid>
+      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2018b). Mboxr: Converting an mbox file into a tibble. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=mboxr&#34; target=&#34;_blank&#34;&gt;https://CRAN.R-project.org/package=mboxr&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -145,16 +153,6 @@
       
       <guid>/talk/hfsa_2019/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>31st ENRS Annual Scientific Sessions</title>
-      <link>/talk/enrs_2019/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>/talk/enrs_2019/</guid>
-      <description>&lt;p&gt;Soyoung&amp;rsquo;s &amp;ldquo;Heart Failure Research Using Text Mining: A Systematic Review&amp;rdquo; study was presented on Thursday Afternoon, April 4, 2018 from 3:30 pm-4:30 pm.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
