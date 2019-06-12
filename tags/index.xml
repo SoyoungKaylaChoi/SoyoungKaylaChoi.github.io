@@ -13,11 +13,16 @@
     
     
     <item>
-      <title>Software Development: Ezpickr (JooYoung Seo &amp; Soyoung Choi)</title>
-      <link>/resource/rpackage1/</link>
+      <title></title>
+      <link>/tags/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/resource/rpackage1/</guid>
+      <guid>/tags/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>ce/rpackage1/</guid>
       <description>Seo, J., &amp;amp; Choi, S. (2019a). Ezpickr: Easy data import using gui file picker and seamless communication between an excel and r. Retrieved from https://CRAN.R-project.org/package=ezpickr</description>
     </item>
     
