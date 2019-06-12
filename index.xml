@@ -109,26 +109,6 @@
     </item>
     
     <item>
-      <title>22nd HFSA Annual Scientific Meeting</title>
-      <link>/post/22nd-hfsa-annual-scientific-meeting/</link>
-      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/22nd-hfsa-annual-scientific-meeting/</guid>
-      <description>&lt;p&gt;Poster Presentation; September 15-18, 2018; Gaylord Opryland Hotel &amp;amp; Convention Center; Nashville Tennessee&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>22nd HFSA Annual Scientific Meeting</title>
-      <link>/post/22nd-hfsa-annual-scientific-meeting/</link>
-      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/22nd-hfsa-annual-scientific-meeting/</guid>
-      <description>&lt;p&gt;Poster Presentation; September 15-18, 2018; Gaylord Opryland Hotel &amp;amp; Convention Center; Nashville Tennessee&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Current Pharmacogenetic Approach for Oxaliplatin-induced Peripheral Neuropathy among Patients with Colorectal Cancer: A Systematic Review</title>
       <link>/publication/oxaliplatin_2018/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
@@ -155,6 +135,25 @@
       <guid>/resource/rpackage2/</guid>
       <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019b). Mboxr: Reading, extracting, and converting an mbox file into a tibble. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=mboxr&#34; target=&#34;_blank&#34;&gt;https://CRAN.R-project.org/package=mboxr&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Software Development: youtubecaption (JooYoung Seo &amp; Soyoung Choi)</title>
+      <link>/resource/rpackage3/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/resource/rpackage3/</guid>
+      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019c). youtubecaption: Downloading YouTube Subtitle Transcript in a Tidy &amp;lsquo;Tibble&amp;rsquo; Data_Frame. Retrieved from &lt;a href=&#34;https://cran.r-project.org/web/packages/youtubecaption&#34; target=&#34;_blank&#34;&gt;https://cran.r-project.org/web/packages/youtubecaption&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Influence of Self-care Agency and Social Support as Factors Influencing Self-care Practice in Spinal Cord Injured Patients</title>
+      <link>/publication/selfcaresci_2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/selfcaresci_2017/</guid>
+      <description></description>
     </item>
     
   </channel>
