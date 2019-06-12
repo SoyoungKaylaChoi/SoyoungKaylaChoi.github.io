@@ -22,27 +22,4 @@
     </item>
     
   </channel>
-</rss>ce/rpackage1/</guid>
-      <description>Seo, J., &amp;amp; Choi, S. (2019a). Ezpickr: Easy data import using gui file picker and seamless communication between an excel and r. Retrieved from https://CRAN.R-project.org/package=ezpickr</description>
-    </item>
-    
-    <item>
-      <title>Software Development: Mboxr (JooYoung Seo &amp; Soyoung Choi)</title>
-      <link>/resource/rpackage2/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/resource/rpackage2/</guid>
-      <description>Seo, J., &amp;amp; Choi, S. (2019b). Mboxr: Reading, extracting, and converting an mbox file into a tibble. Retrieved from https://CRAN.R-project.org/package=mboxr</description>
-    </item>
-    
-    <item>
-      <title>Software Development: youtubecaption (JooYoung Seo &amp; Soyoung Choi)</title>
-      <link>/resource/rpackage3/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/resource/rpackage3/</guid>
-      <description>Seo, J., &amp;amp; Choi, S. (2019c). youtubecaption: Downloading YouTube Subtitle Transcript in a Tidy &amp;lsquo;Tibble&amp;rsquo; Data_Frame. Retrieved from https://cran.r-project.org/web/packages/youtubecaption</description>
-    </item>
-    
-  </channel>
 </rss>
