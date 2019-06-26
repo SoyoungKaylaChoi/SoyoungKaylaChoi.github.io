@@ -11,9 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Trends in Self Management among Adults with Heart Failure from 2011 to 2016 Using the National Health and Nutrition Examination Surveys</title>
+      <link>/publication/trendshf_2019/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/trendshf_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Spirituality Assessment Scale: Development and Validation</title>
       <link>/publication/sas_2019/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/sas_2019/</guid>
       <description></description>
@@ -145,15 +154,6 @@
       <guid>/resource/rpackage3/</guid>
       <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019c). youtubecaption: Downloading YouTube Subtitle Transcript in a Tidy &amp;lsquo;Tibble&amp;rsquo; Data_Frame. Retrieved from &lt;a href=&#34;https://cran.r-project.org/web/packages/youtubecaption&#34; target=&#34;_blank&#34;&gt;https://cran.r-project.org/web/packages/youtubecaption&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The Influence of Self-care Agency and Social Support as Factors Influencing Self-care Practice in Spinal Cord Injured Patients</title>
-      <link>/publication/selfcaresci_2017/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/selfcaresci_2017/</guid>
-      <description></description>
     </item>
     
   </channel>
