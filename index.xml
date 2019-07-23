@@ -29,7 +29,16 @@
     </item>
     
     <item>
-      <title>Trends in Comorbidity, Medication Use, and Modifiable Lifestyle Among Adults with Heart Failure from 2011 to 2016 Using the National Health and Nutrition Examination Surveys</title>
+      <title>Tools for Assessment of Spirituality: A State of the Science</title>
+      <link>/publication/toolassessment_2019/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/toolassessment_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current Status of Comorbidity, Medication Use, and Modifiable Lifestyle Among Adults with Heart Failure from 2011 to 2016 Using the National Health and Nutrition Examination Surveys</title>
       <link>/publication/nhneshf_2019/</link>
       <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -144,16 +153,6 @@
       
       <guid>/resource/rpackage2/</guid>
       <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019b). Mboxr: Reading, extracting, and converting an mbox file into a tibble. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=mboxr&#34; target=&#34;_blank&#34;&gt;https://CRAN.R-project.org/package=mboxr&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Software Development: youtubecaption (JooYoung Seo &amp; Soyoung Choi)</title>
-      <link>/resource/rpackage3/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/resource/rpackage3/</guid>
-      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019c). youtubecaption: Downloading YouTube Subtitle Transcript in a Tidy &amp;lsquo;Tibble&amp;rsquo; Data_Frame. Retrieved from &lt;a href=&#34;https://cran.r-project.org/web/packages/youtubecaption&#34; target=&#34;_blank&#34;&gt;https://cran.r-project.org/web/packages/youtubecaption&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
