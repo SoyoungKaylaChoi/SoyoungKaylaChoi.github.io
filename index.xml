@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soyoung Choi on Soyoung Choi</title>
@@ -7,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Soyoung Choi 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -38,15 +37,6 @@
     </item>
     
     <item>
-      <title>Current Status of Comorbidity, Medication Use, and Modifiable Lifestyle Among Adults with Heart Failure from 2011 to 2016 Using the National Health and Nutrition Examination Surveys</title>
-      <link>/publication/nhneshf_2019/</link>
-      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/nhneshf_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Trends in Psychological Well-Being Across Adulthood in Lesbian, Gay, and Bisexual Population from 1995 to 2014 Using the Midlife in the United States Study</title>
       <link>/publication/miduslmm_2019/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
@@ -58,7 +48,7 @@
     <item>
       <title>Nursing Education Research Conference 2020</title>
       <link>/talk/nerc_2020/</link>
-      <pubDate>Sat, 23 Mar 2019 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>/talk/nerc_2020/</guid>
       <description>&lt;p&gt;Soyoung&amp;rsquo;s scholarly work entitled &amp;ldquo;A bibliometric analysis of simulation-based learning research in nursing education from 1996 to 2019&amp;rdquo; has been selected for an oral presentation.&lt;/p&gt;
@@ -75,6 +65,16 @@
 
 
 &lt;p&gt;Oral Presentation; March 20-21, 2019; The Glidden House; Cleveland, OH (Pictures: Callista Roy and Peggy Chinn. With Korean nursing scholars)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nursing Theory Conference 2019</title>
+      <link>/post/nursing-theory-conference-2019/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/nursing-theory-conference-2019/</guid>
+      <description>&lt;p&gt;Oral Presentation; March 20-21, 2019; The Glidden House; Cleveland, OH (Pictures: Callista Roy and Peggy Chinn. With Korean nursing scholars)&lt;/p&gt;
 </description>
     </item>
     
