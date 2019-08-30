@@ -156,5 +156,15 @@
 </description>
     </item>
     
+    <item>
+      <title>Software Development: youtubecaption (JooYoung Seo &amp; Soyoung Choi)</title>
+      <link>/resource/rpackage3/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/resource/rpackage3/</guid>
+      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019c). youtubecaption: Downloading YouTube Subtitle Transcript in a Tidy &amp;lsquo;Tibble&amp;rsquo; Data_Frame. Retrieved from &lt;a href=&#34;https://cran.r-project.org/web/packages/youtubecaption&#34; target=&#34;_blank&#34;&gt;https://cran.r-project.org/web/packages/youtubecaption&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
