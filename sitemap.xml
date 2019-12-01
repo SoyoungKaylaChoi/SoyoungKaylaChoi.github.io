@@ -138,6 +138,26 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/rpackage1/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/rpackage2/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/rpackage3/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/ntc_2019/</loc>
     <lastmod>2019-03-21T00:00:00-04:00</lastmod>
   </url>
@@ -188,17 +208,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/resource/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/rpackage1/</loc>
     <lastmod>2018-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -208,17 +218,7 @@
   </url>
   
   <url>
-    <loc>/post/rpackage2/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/resource/rpackage2/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/rpackage3/</loc>
     <lastmod>2018-04-02T00:00:00+00:00</lastmod>
   </url>
   

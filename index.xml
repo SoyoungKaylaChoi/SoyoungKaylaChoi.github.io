@@ -140,6 +140,33 @@
     </item>
     
     <item>
+      <title>Software Development: Ezpickr (JooYoung Seo &amp; Soyoung Choi)</title>
+      <link>/post/rpackage1/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/post/rpackage1/</guid>
+      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019a). Ezpickr: Easy data import using gui file picker and seamless communication between an excel and r. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=ezpickr&#34;&gt;https://CRAN.R-project.org/package=ezpickr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Development: Mboxr (JooYoung Seo &amp; Soyoung Choi)</title>
+      <link>/post/rpackage2/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/post/rpackage2/</guid>
+      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019b). Mboxr: Reading, extracting, and converting an mbox file into a tibble. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=mboxr&#34;&gt;https://CRAN.R-project.org/package=mboxr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Development: youtubecaption (JooYoung Seo &amp; Soyoung Choi)</title>
+      <link>/post/rpackage3/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/post/rpackage3/</guid>
+      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019c). youtubecaption: Downloading YouTube Subtitle Transcript in a Tidy &amp;lsquo;Tibble&amp;rsquo; Data_Frame. Retrieved from &lt;a href=&#34;https://cran.r-project.org/web/packages/youtubecaption&#34;&gt;https://cran.r-project.org/web/packages/youtubecaption&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Nursing Theory: A 50 Year Perspective, Past and Future</title>
       <link>/talk/ntc_2019/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 -0400</pubDate>
@@ -192,15 +219,6 @@
     
     <item>
       <title>Software Development: Ezpickr (JooYoung Seo &amp; Soyoung Choi)</title>
-      <link>/post/rpackage1/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/post/rpackage1/</guid>
-      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019a). Ezpickr: Easy data import using gui file picker and seamless communication between an excel and r. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=ezpickr&#34;&gt;https://CRAN.R-project.org/package=ezpickr&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Software Development: Ezpickr (JooYoung Seo &amp; Soyoung Choi)</title>
       <link>/resource/rpackage1/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       <guid>/resource/rpackage1/</guid>
@@ -210,28 +228,10 @@
     
     <item>
       <title>Software Development: Mboxr (JooYoung Seo &amp; Soyoung Choi)</title>
-      <link>/post/rpackage2/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/post/rpackage2/</guid>
-      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019b). Mboxr: Reading, extracting, and converting an mbox file into a tibble. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=mboxr&#34;&gt;https://CRAN.R-project.org/package=mboxr&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Software Development: Mboxr (JooYoung Seo &amp; Soyoung Choi)</title>
       <link>/resource/rpackage2/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       <guid>/resource/rpackage2/</guid>
       <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019b). Mboxr: Reading, extracting, and converting an mbox file into a tibble. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=mboxr&#34;&gt;https://CRAN.R-project.org/package=mboxr&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Software Development: youtubecaption (JooYoung Seo &amp; Soyoung Choi)</title>
-      <link>/post/rpackage3/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/post/rpackage3/</guid>
-      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019c). youtubecaption: Downloading YouTube Subtitle Transcript in a Tidy &amp;lsquo;Tibble&amp;rsquo; Data_Frame. Retrieved from &lt;a href=&#34;https://cran.r-project.org/web/packages/youtubecaption&#34;&gt;https://cran.r-project.org/web/packages/youtubecaption&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
