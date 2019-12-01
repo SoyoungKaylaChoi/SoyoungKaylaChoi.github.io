@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Soyoung Choi</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2019</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/Soyoung.jpg</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Designing a Clinical Ethics Education Program for Nurses Based on the ADDIE model</title>
+      <link>/publication/addiemodel/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/addiemodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement Properties of Spirituality Related Assessment Tools Applied in Korean Studies</title>
+      <link>/publication/toolassessment/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/toolassessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Spirituality Assessment Scale: Development and Validation</title>
+      <link>/publication/sas/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in Informal Caregiver Depression Research from 2000 to 2018: Combining Bibliometrics and Text Mining</title>
+      <link>/publication/caregiverdepressionbib/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/caregiverdepressionbib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in Self-Management among Adults with Heart Failure from 2011 to 2016 Using the National Health and Nutrition Examination Surveys</title>
+      <link>/publication/trendshf/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/trendshf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Caregiver Burden in Palliative Care: An Integrated Review</title>
+      <link>/publication/caregiverburden/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/caregiverburden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Nonpharmacological Interventions for Fatigue in Patients with Heart Failure: A Systematic Review and Meta-Analysis</title>
+      <link>/publication/fatiguehf/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/fatiguehf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current Pharmacogenetic Approach for Oxaliplatin-induced Peripheral Neuropathy among Patients with Colorectal Cancer: A Systematic Review</title>
+      <link>/publication/oxaliplatin/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/oxaliplatin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Influence of Self-care Agency and Social Support as Factors Influencing Self-care Practice in Spinal Cord Injured Patients</title>
+      <link>/publication/selfcaresci/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/selfcaresci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Concept Analysis of Spirituality</title>
+      <link>/publication/spirituality/</link>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/spirituality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

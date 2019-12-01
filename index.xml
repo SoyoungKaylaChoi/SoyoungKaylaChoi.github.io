@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soyoung Choi</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Soyoung Choi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2019</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>/img/Soyoung.jpg</url>
+      <title>Soyoung Choi</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&#39;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nursing Education Research Conference 2020</title>
+      <link>/talk/nerc_2020/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0500</pubDate>
+      <guid>/talk/nerc_2020/</guid>
+      <description>&lt;p&gt;Soyoung&#39;s scholarly work entitled &amp;ldquo;A bibliometric analysis of simulation-based learning research in nursing education from 1996 to 2019&amp;rdquo; has been selected for an oral presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Designing a Clinical Ethics Education Program for Nurses Based on the ADDIE model</title>
+      <link>/publication/addiemodel/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/addiemodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement Properties of Spirituality Related Assessment Tools Applied in Korean Studies</title>
+      <link>/publication/toolassessment/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/toolassessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Spirituality Assessment Scale: Development and Validation</title>
+      <link>/publication/sas/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in Informal Caregiver Depression Research from 2000 to 2018: Combining Bibliometrics and Text Mining</title>
+      <link>/publication/caregiverdepressionbib/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/caregiverdepressionbib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Conference on Quantitative Ethnography 2019</title>
+      <link>/talk/icqe_2019/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 -0400</pubDate>
+      <guid>/talk/icqe_2019/</guid>
+      <description>&lt;p&gt;Soyoung&#39;s project entitled &amp;ldquo;Exploring the Lived Experience of a Family Member with Advanced Heart Failure: Using a Text Mining Approach&amp;rdquo; was presented.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trends in Self-Management Among Adults with Heart Failure from 2011 to 2016 Using the NHANES Surveys</title>
+      <link>/post/hfsa/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/post/hfsa/</guid>
+      <description>&lt;p&gt;Nursing Investigator Award Finalist&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>23rd HFSA Annual Scientific Meeting</title>
+      <link>/talk/hfsa_2019/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 -0400</pubDate>
+      <guid>/talk/hfsa_2019/</guid>
+      <description>&lt;p&gt;Soyoung&#39;s scholarly work was accepted for oral presentation in the Nursing Investigator Award Session. This study was one of three selected for presentation in the research award session.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trends in Self-Management among Adults with Heart Failure from 2011 to 2016 Using the National Health and Nutrition Examination Surveys</title>
+      <link>/publication/trendshf/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/trendshf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korean Society of Adult Nursing Conference Spring 2019</title>
+      <link>/talk/ksna_2019/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 -0400</pubDate>
+      <guid>/talk/ksna_2019/</guid>
+      <description>&lt;p&gt;Soyoung&#39;s &amp;ldquo;A Global Snapshot of Simulation-based Learning in Nursing Education&amp;rdquo; study was presented on Friday, May 24, 2019 from noon-1:30 pm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nursing Theory: A 50 Year Perspective, Past and Future</title>
+      <link>/talk/ntc_2019/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 -0400</pubDate>
+      <guid>/talk/ntc_2019/</guid>
+      <description>&lt;p&gt;Soyoung&#39;s concept analysis of caregiver burden in palliative care was presented in Nursing Theory Conference (Thursday, March 21 &amp;amp; Friday, March 22, 2019).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>34th CSUN Assistive Technology Conference</title>
+      <link>/talk/csun_2019/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0400</pubDate>
+      <guid>/talk/csun_2019/</guid>
+      <description>&lt;p&gt;The biggest assistive technology conference all over the world.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of Caregiver Burden in Palliative Care: An Integrated Review</title>
+      <link>/publication/caregiverburden/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/caregiverburden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Nonpharmacological Interventions for Fatigue in Patients with Heart Failure: A Systematic Review and Meta-Analysis</title>
+      <link>/publication/fatiguehf/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/fatiguehf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current Pharmacogenetic Approach for Oxaliplatin-induced Peripheral Neuropathy among Patients with Colorectal Cancer: A Systematic Review</title>
+      <link>/publication/oxaliplatin/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/oxaliplatin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>31st ENRS Annual Scientific Sessions</title>
+      <link>/talk/enrs_2019/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 -0400</pubDate>
+      <guid>/talk/enrs_2019/</guid>
+      <description>&lt;p&gt;Soyoung&#39;s &amp;ldquo;Heart Failure Research Using Text Mining: A Systematic Review&amp;rdquo; study was presented on Thursday Afternoon, April 4, 2018 from 3:30 pm-4:30 pm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Development: Ezpickr (JooYoung Seo &amp; Soyoung Choi)</title>
+      <link>/post/rpackage1/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/post/rpackage1/</guid>
+      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019a). Ezpickr: Easy data import using gui file picker and seamless communication between an excel and r. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=ezpickr&#34;&gt;https://CRAN.R-project.org/package=ezpickr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Development: Ezpickr (JooYoung Seo &amp; Soyoung Choi)</title>
+      <link>/resource/rpackage1/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/resource/rpackage1/</guid>
+      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019a). Ezpickr: Easy data import using gui file picker and seamless communication between an excel and r. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=ezpickr&#34;&gt;https://CRAN.R-project.org/package=ezpickr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Development: Mboxr (JooYoung Seo &amp; Soyoung Choi)</title>
+      <link>/post/rpackage2/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/post/rpackage2/</guid>
+      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019b). Mboxr: Reading, extracting, and converting an mbox file into a tibble. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=mboxr&#34;&gt;https://CRAN.R-project.org/package=mboxr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Development: Mboxr (JooYoung Seo &amp; Soyoung Choi)</title>
+      <link>/resource/rpackage2/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/resource/rpackage2/</guid>
+      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019b). Mboxr: Reading, extracting, and converting an mbox file into a tibble. Retrieved from &lt;a href=&#34;https://CRAN.R-project.org/package=mboxr&#34;&gt;https://CRAN.R-project.org/package=mboxr&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Development: youtubecaption (JooYoung Seo &amp; Soyoung Choi)</title>
+      <link>/post/rpackage3/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/post/rpackage3/</guid>
+      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019c). youtubecaption: Downloading YouTube Subtitle Transcript in a Tidy &amp;lsquo;Tibble&amp;rsquo; Data_Frame. Retrieved from &lt;a href=&#34;https://cran.r-project.org/web/packages/youtubecaption&#34;&gt;https://cran.r-project.org/web/packages/youtubecaption&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Development: youtubecaption (JooYoung Seo &amp; Soyoung Choi)</title>
+      <link>/resource/rpackage3/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/resource/rpackage3/</guid>
+      <description>&lt;p&gt;Seo, J., &amp;amp; Choi, S. (2019c). youtubecaption: Downloading YouTube Subtitle Transcript in a Tidy &amp;lsquo;Tibble&amp;rsquo; Data_Frame. Retrieved from &lt;a href=&#34;https://cran.r-project.org/web/packages/youtubecaption&#34;&gt;https://cran.r-project.org/web/packages/youtubecaption&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Influence of Self-care Agency and Social Support as Factors Influencing Self-care Practice in Spinal Cord Injured Patients</title>
+      <link>/publication/selfcaresci/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/selfcaresci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Concept Analysis of Spirituality</title>
+      <link>/publication/spirituality/</link>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/spirituality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

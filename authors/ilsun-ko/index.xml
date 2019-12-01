@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilsun Ko | Soyoung Choi</title>
+    <link>/authors/ilsun-ko/</link>
+      <atom:link href="/authors/ilsun-ko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ilsun Ko</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2019</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/Soyoung.jpg</url>
+      <title>Ilsun Ko</title>
+      <link>/authors/ilsun-ko/</link>
+    </image>
+    
+    <item>
+      <title>Measurement Properties of Spirituality Related Assessment Tools Applied in Korean Studies</title>
+      <link>/publication/toolassessment/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/toolassessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Spirituality Assessment Scale: Development and Validation</title>
+      <link>/publication/sas/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

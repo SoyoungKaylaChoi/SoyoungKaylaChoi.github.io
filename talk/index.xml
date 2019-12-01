@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Soyoung Choi</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2019</copyright><lastBuildDate>Fri, 06 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/Soyoung.jpg</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Nursing Education Research Conference 2020</title>
+      <link>/talk/nerc_2020/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0500</pubDate>
+      <guid>/talk/nerc_2020/</guid>
+      <description>&lt;p&gt;Soyoung&#39;s scholarly work entitled &amp;ldquo;A bibliometric analysis of simulation-based learning research in nursing education from 1996 to 2019&amp;rdquo; has been selected for an oral presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>International Conference on Quantitative Ethnography 2019</title>
+      <link>/talk/icqe_2019/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 -0400</pubDate>
+      <guid>/talk/icqe_2019/</guid>
+      <description>&lt;p&gt;Soyoung&#39;s project entitled &amp;ldquo;Exploring the Lived Experience of a Family Member with Advanced Heart Failure: Using a Text Mining Approach&amp;rdquo; was presented.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>23rd HFSA Annual Scientific Meeting</title>
+      <link>/talk/hfsa_2019/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 -0400</pubDate>
+      <guid>/talk/hfsa_2019/</guid>
+      <description>&lt;p&gt;Soyoung&#39;s scholarly work was accepted for oral presentation in the Nursing Investigator Award Session. This study was one of three selected for presentation in the research award session.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Korean Society of Adult Nursing Conference Spring 2019</title>
+      <link>/talk/ksna_2019/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 -0400</pubDate>
+      <guid>/talk/ksna_2019/</guid>
+      <description>&lt;p&gt;Soyoung&#39;s &amp;ldquo;A Global Snapshot of Simulation-based Learning in Nursing Education&amp;rdquo; study was presented on Friday, May 24, 2019 from noon-1:30 pm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nursing Theory: A 50 Year Perspective, Past and Future</title>
+      <link>/talk/ntc_2019/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 -0400</pubDate>
+      <guid>/talk/ntc_2019/</guid>
+      <description>&lt;p&gt;Soyoung&#39;s concept analysis of caregiver burden in palliative care was presented in Nursing Theory Conference (Thursday, March 21 &amp;amp; Friday, March 22, 2019).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>34th CSUN Assistive Technology Conference</title>
+      <link>/talk/csun_2019/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 -0400</pubDate>
+      <guid>/talk/csun_2019/</guid>
+      <description>&lt;p&gt;The biggest assistive technology conference all over the world.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>31st ENRS Annual Scientific Sessions</title>
+      <link>/talk/enrs_2019/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 -0400</pubDate>
+      <guid>/talk/enrs_2019/</guid>
+      <description>&lt;p&gt;Soyoung&#39;s &amp;ldquo;Heart Failure Research Using Text Mining: A Systematic Review&amp;rdquo; study was presented on Thursday Afternoon, April 4, 2018 from 3:30 pm-4:30 pm.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

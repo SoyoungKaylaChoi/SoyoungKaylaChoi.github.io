@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyunghwa Lee | Soyoung Choi</title>
+    <link>/authors/kyunghwa-lee/</link>
+      <atom:link href="/authors/kyunghwa-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kyunghwa Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2019</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/Soyoung.jpg</url>
+      <title>Kyunghwa Lee</title>
+      <link>/authors/kyunghwa-lee/</link>
+    </image>
+    
+    <item>
+      <title>Designing a Clinical Ethics Education Program for Nurses Based on the ADDIE model</title>
+      <link>/publication/addiemodel/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/addiemodel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

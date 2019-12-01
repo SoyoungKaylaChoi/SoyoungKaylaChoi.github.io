@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doo Ree Kim | Soyoung Choi</title>
+    <link>/authors/doo-ree-kim/</link>
+      <atom:link href="/authors/doo-ree-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Doo Ree Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2019</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/Soyoung.jpg</url>
+      <title>Doo Ree Kim</title>
+      <link>/authors/doo-ree-kim/</link>
+    </image>
+    
+    <item>
+      <title>Designing a Clinical Ethics Education Program for Nurses Based on the ADDIE model</title>
+      <link>/publication/addiemodel/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/addiemodel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
