@@ -1,28 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Data Science on JooYoung Seo: a Learning Scientist for Inclusive Learning Ecologies</title>
-    <link>/categories/data-science/</link>
-    <description>Recent content in Data Science on JooYoung Seo: a Learning Scientist for Inclusive Learning Ecologies</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; JooYoung Seo 2018</copyright>
-    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Initial Post</title>
-      <link>/post/initial-post/</link>
-      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/initial-post/</guid>
-      <description>Three Available Packages Specialized for Visually Impaired R UsersThere are three packages for the blind R users (Godfrey, Warren, Murrell, Bilton, &amp;amp; Sorge, 2018; Seo, 2017; Siegert &amp;amp; Williams, 2017).
-MethodsCreswell (2014) suggests a mixed methods study as a balanced methodology between qualitative and quantitative research.
-Basic HistogramSee Figure 1 made by base R:
-Figure 1: Histogram of Ozone.VI(hist(airquality$Ozone))## This is a histogram, with the title: Histogram of airquality$Ozone## &amp;quot;airquality$Ozone&amp;quot; is marked on the x-axis.</description>
-    </item>
-    
-  </channel>
-</rss>
