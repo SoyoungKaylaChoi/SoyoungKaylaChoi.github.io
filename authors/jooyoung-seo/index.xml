@@ -5,7 +5,7 @@
     <link>/authors/jooyoung-seo/</link>
       <atom:link href="/authors/jooyoung-seo/index.xml" rel="self" type="application/rss+xml" />
     <description>JooYoung Seo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2020</copyright><lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/Soyoung.jpg</url>
       <title>JooYoung Seo</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Trends in Informal Caregiver Depression Research from 2000 to 2018: Combining Bibliometrics and Text Mining</title>
+      <title>An Exploratory Study of the Research on Caregiver Depression: Using Bibliometrics and LDA Topic Modeling</title>
       <link>/publication/caregiverdepressionbib/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/publication/caregiverdepressionbib/</guid>
       <description></description>
     </item>
