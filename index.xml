@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Soyoung Choi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2020</copyright><lastBuildDate>Sat, 07 Dec 2019 00:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2020</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 -0500</lastBuildDate>
     <image>
       <url>/img/Soyoung.jpg</url>
       <title>Soyoung Choi</title>
@@ -55,20 +55,27 @@
     </item>
     
     <item>
-      <title>International Society for Data Science and Analytics 2020</title>
-      <link>/talk/isdsa_2020/</link>
-      <pubDate>Sat, 07 Dec 2019 00:00:00 -0500</pubDate>
-      <guid>/talk/isdsa_2020/</guid>
+      <title>International Conference on Quantitative Ethnography 2020</title>
+      <link>/talk/hfsa_2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 -0500</pubDate>
+      <guid>/talk/hfsa_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nursing Education Research Conference 2020</title>
-      <link>/talk/nerc_2020/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 -0500</pubDate>
-      <guid>/talk/nerc_2020/</guid>
-      <description>&lt;p&gt;Soyoung&#39;s scholarly work entitled &amp;ldquo;A bibliometric analysis of simulation-based learning research in nursing education from 1996 to 2019&amp;rdquo; has been selected for an oral presentation.&lt;/p&gt;
-</description>
+      <link>/talk/ique_2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 -0500</pubDate>
+      <guid>/talk/ique_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Society for Data Science and Analytics 2020</title>
+      <link>/talk/isdsa_2020/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 -0500</pubDate>
+      <guid>/talk/isdsa_2020/</guid>
+      <description></description>
     </item>
     
     <item>
