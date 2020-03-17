@@ -68,6 +68,21 @@
   </url>
   
   <url>
+    <loc>/publication/sas/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ilsun-ko/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jinsook-kim/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/addiemodel/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -78,22 +93,7 @@
   </url>
   
   <url>
-    <loc>/authors/ilsun-ko/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jinsook-kim/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/kyunghwa-lee/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/toolassessment/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,11 +104,6 @@
   
   <url>
     <loc>/authors/sanghee-kim/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/sas/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
