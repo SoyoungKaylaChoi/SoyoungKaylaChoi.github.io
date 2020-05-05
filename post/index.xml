@@ -5,21 +5,12 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2020</copyright><lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2020</copyright><lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/Soyoung.jpg</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
-    
-    <item>
-      <title>Trends in Self-Management Among Adults with Heart Failure from 2011 to 2016 Using the NHANES Surveys</title>
-      <link>/post/hfsa/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/post/hfsa/</guid>
-      <description>&lt;p&gt;Nursing Investigator Award Finalist&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Software Development: Ezpickr (JooYoung Seo &amp; Soyoung Choi)</title>
