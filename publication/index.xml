@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2020</copyright><lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/Soyoung.jpg</url>
       <title>Publications</title>
@@ -13,74 +13,74 @@
     </image>
     
     <item>
+      <title>Designing a Clinical Ethics Education Program for Nurses Based on the ADDIE Model</title>
+      <link>/publication/9.-addiemodel/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/9.-addiemodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Exploratory Study of the Research on Caregiver Depression: Using Bibliometrics and LDA Topic Modeling</title>
-      <link>/publication/caregiverdepressionbib/</link>
+      <link>/publication/8.-caregiverdepressionbib/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/caregiverdepressionbib/</guid>
+      <guid>/publication/8.-caregiverdepressionbib/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development and Validation of the New Version of Spirituality Assessment Scale</title>
-      <link>/publication/sas/</link>
+      <link>/publication/7.-sas/</link>
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/sas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Designing a Clinical Ethics Education Program for Nurses Based on the ADDIE Model</title>
-      <link>/publication/addiemodel/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/addiemodel/</guid>
+      <guid>/publication/7.-sas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trends in Self-Management among Adults with Heart Failure from 2011 to 2016 Using the National Health and Nutrition Examination Surveys</title>
-      <link>/publication/trendshf/</link>
+      <link>/publication/6.-trendshf/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/trendshf/</guid>
+      <guid>/publication/6.-trendshf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Caregiver Burden in Palliative Care: An Integrated Review</title>
-      <link>/publication/caregiverburden/</link>
+      <link>/publication/5.-caregiverburden/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/caregiverburden/</guid>
+      <guid>/publication/5.-caregiverburden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of Nonpharmacological Interventions for Fatigue in Patients with Heart Failure: A Systematic Review and Meta-Analysis</title>
-      <link>/publication/fatiguehf/</link>
+      <link>/publication/4.-fatiguehf/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/fatiguehf/</guid>
+      <guid>/publication/4.-fatiguehf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Current Pharmacogenetic Approach for Oxaliplatin-induced Peripheral Neuropathy among Patients with Colorectal Cancer: A Systematic Review</title>
-      <link>/publication/oxaliplatin/</link>
+      <link>/publication/3.-oxaliplatin/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/oxaliplatin/</guid>
+      <guid>/publication/3.-oxaliplatin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Influence of Self-care Agency and Social Support as Factors Influencing Self-care Practice in Spinal Cord Injured Patients</title>
-      <link>/publication/selfcaresci/</link>
+      <link>/publication/2.-selfcaresci/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/selfcaresci/</guid>
+      <guid>/publication/2.-selfcaresci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary Concept Analysis of Spirituality</title>
-      <link>/publication/spirituality/</link>
+      <link>/publication/1.-spirituality/</link>
       <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/spirituality/</guid>
+      <guid>/publication/1.-spirituality/</guid>
       <description></description>
     </item>
     
