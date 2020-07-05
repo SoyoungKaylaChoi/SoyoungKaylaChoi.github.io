@@ -5,12 +5,116 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Soyoung Choi 2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/Soyoung.jpg</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>**Soyoung Choi**</title>
+      <link>/authors/soyoung-choi/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/soyoung-choi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doo Ree Kim</title>
+      <link>/authors/doo-ree-kim/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/doo-ree-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyunghwa Lee</title>
+      <link>/authors/kyunghwa-lee/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/kyunghwa-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minjeong Seo</title>
+      <link>/authors/minjeong-seo/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/minjeong-seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanghee Kim</title>
+      <link>/authors/sanghee-kim/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sanghee-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JooYoung Seo</title>
+      <link>/authors/jooyoung-seo/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jooyoung-seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilsun Ko</title>
+      <link>/authors/ilsun-ko/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ilsun-ko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinsook Kim</title>
+      <link>/authors/jinsook-kim/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jinsook-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hye Jeong Jung</title>
+      <link>/authors/hye-jeong-jung/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/hye-jeong-jung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sang Hui Chu</title>
+      <link>/authors/sang-hui-chu/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/sang-hui-chu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soojung Ahn</title>
+      <link>/authors/soojung-ahn/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/soojung-ahn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ill-sun Ko</title>
+      <link>/authors/ill-sun-ko/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/ill-sun-ko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jin Sook Kim</title>
+      <link>/authors/jin-sook-kim/</link>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/jin-sook-kim/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
