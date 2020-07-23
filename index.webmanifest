@@ -2,8 +2,8 @@
   "name": "Soyoung Choi",
   "short_name": "Soyoung Choi",
   "lang": "en-us",
-  "theme_color": "#EAF04E",
-  "background_color": "#EAF04E",
+  "theme_color": "#795548",
+  "background_color": "#795548",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
