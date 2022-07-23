@@ -1,116 +1,183 @@
 <!DOCTYPE html>
-<html lang = "en">
+<html lang="en">
     <head>
-        <meta charset = "UTF-8" />
-        <meta name = "viewport" content = "width=device-width, initial-scale=1.0" />
-        <title> Soyoung's Professional Website </title>
-        <meta name = "description" content = "Website for Dr. Soyoung Choi"/>
-        <meta name = "author" content = "Soyoung" />
-        <link rel = "icon" type = "image/png" href = "images/ahl_logo_white.png" />
-        <script> 
-            src = "https://kit.fontawesome.com/b00ebf73d2.js" 
-            crossorigin = "anonymous"
-        </script>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Soyoung's Professional Website</title>
+        <meta 
+            name="description" 
+            content="Website for Dr. Soyoung Choi"
+        />
+        <meta name="author" content="Soyoung"/>
+        <link rel="icon" type="image/png" href="images/favicon.png"/>
+        <script 
+            src="https://kit.fontawesome.com/b00ebf73d2.js" 
+            crossorigin="anonymous"
+        ></script>
+        <link 
+            href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" 
+            rel="stylesheet"
+        />
         <link rel="stylesheet" href="style.css"/>
-        <script src="main.js" defer></script>
     </head>
     <body>
         <!-- Navbar -->
-        <nav id = "navbar">
-            <div class = "navbar_logo">
-                <i class = "fab fa-diaspora"></i>
-                <a href = "#"> Soyoung </a>
+        <nav id="navbar">
+            <div class="navbar__logo">
+                <i class="fab fa-diaspora"></i>
+                <a href="#">Soyoung</a>
             </div>
-            <div class = "navbar_menu">
-                <ul class = "navbar_menu">
-                    <li class = "navbar_menu_item"> Home </li>
-                    <li class = "navbar_menu_item"> About </li>
-                    <li class = "navbar_menu_item"> Lab </li>
-                    <li class = "navbar_menu_item"> Projects </li>
-                    <li class = "navbar_menu_item"> Publications </li>
-                    <li class = "navbar_menu_item"> Prospective Students </li>
-                    <li class = "navbar_menu_item"> Contact </li>
-                </ul>
-            </div>
+            <ul class="navbar__menu">
+                <li class="navbar__menu__item active" data-link="#home">Home</li>
+                <li class="navbar__menu__item" data-link="#about">About</li>
+                <li class="navbar__menu__item" data-link="#education">Education</li>
+                <li class="navbar__menu__item" data-link="#lab">Lab</li>
+                <li class="navbar__menu__item" data-link="#projects">Projects</li>
+                <li class="navbar__menu__item" data-link="#publications">Publications</li>
+                <li class="navbar__menu__item" data-link="#contact">Contact</li>
+            </ul>
+            <!-- Toggle button -->
+            <button class="navbar__toggle-btn">
+                <i class="fas fa-bars"></i>
+            </button>
         </nav>
+
         <!-- Home -->
-        <section id = "home"></section>
-            <img src = "images/me.png" alt = "soyoung's picture" class = "home_avatar"/>
-            <h1 class = "home_title">Soyoung Choi PhD, RN </h1>
-            <h2 class = "home_description">Assistant Professor <br /> Department of Kinesiology and Community Health <br /> College of Applied Health Sciences <br /> Univesisty of Illinois at Urbana-Champaign </h2>
-            <h2 class = "home_description">Faculty Affiliate <br /> Illinois Informatics Institute <br /> Univesisty of Illinois at Urbana-Champaign </h2>
-            <h2 class = "home_description">Faculty Affiliate <br /> Personalized Nutrition Initiative <br /> Univesisty of Illinois at Urbana-Champaign </h2>
-            <button class = "home_contact">Contact Me</button>        
+        <section id="home">
+            <div class="home__container">
+                <img 
+                    src="images/me.png" 
+                    alt="soyoung's picture" 
+                    class="home__avatar"/>
+                <h1 class="home__title">Soyoung Choi PhD, RN</h1>
+                <h3 class="home__description">Assistant Professor<br/>Department of Kinesiology and Community Health<br/>College of Applied Health Sciences<br/>Univesisty of Illinois at Urbana-Champaign</h3>
+                <h3 class="home__description">Faculty Affiliate<br/>Illinois Informatics Institute<br/>Univesisty of Illinois at Urbana-Champaign</h3>
+                <h3 class="home__description">Faculty Affiliate<br/>Personalized Nutrition Initiative<br/>Univesisty of Illinois at Urbana-Champaign</h3>
+                <button class="home__contact">Contact Me</button>
+            </div>
+        </section>
+
         <!-- About -->
-        <section id = "about"></section>
+        <section id="about" class="section section__containter">
             <h1>About Me</h1>
-            <p1>
-                My ultimate goal of research is to improve the health-related quality of life of people with visual impiarments (PVI).
-            </p1>
-            <div class = "about_research_interests">
-                <div class = "research_interest">
-                    <div class = "interest_icon">
-                        <i class="fa-solid fa-eye-slash"></i>
+            <p>"Put a paragraph when the editing is delivered"</p>
+            <div class="about__majors">
+                <div class="major">
+                    <div class= "major__icon">
+                        <i class="fas fa-blind"></i>
                     </div>
-                    <div class = "interest_title">Health behavior</div>
-                    <div class = "interest_description">Sleep, Physical activity, Diet</div>
+                    <h2 class="major__title">Biobehavioral Research</h2>
+                    <div class="major__description">
+                        PVI's sleep, diet, and physical activity
+                    </div>
                 </div>
-                <div class = "research_interest">
-                    <div class = "interest_icon">
-                        <i class="fa-solid fa-circle-info"></i>
+                <div class="major">
+                    <div class="major__icon">
+                        <i class="fab fa-leanpub"></i>
                     </div>
-                    <div class = "interest_title">Health literacy</div>
-                    <div class = "interest_description">eHealth literacy, Information seeking behavior</div>
+                    <h2 class="major__title">Theoretical Framework</h2>
+                    <div class="major__description">
+                        PVI's health literacy and information seeking behavior
+                    </div>
                 </div>
-                <div class = "research_interest">
-                    <div class = "interest_icon">
-                        <i class="fa-solid fa-mobile-screen-button"></i>
+                <div class="major">
+                    <div class="major__icon">
+                        <i class="fas fa-tablet-alt"></i>
                     </div>
-                    <div class = "interest_title">Self-tracking technology</div>
-                    <div class = "interest_description">Mobile health app, Wearable device</div>
+                    <h2 class="major__title">Methodologic Research</h2>
+                    <div class="major__description">
+                        Self-tracking technologies<br/>Mobile health app, wearable device
+                    </div>
                 </div>
             </div>
-            <div class = "about_career">
-                <div class = "career">
-                    <img src = "images/career/psu.png" class = "career logo">
-                    <p class = "career_institute"> The Pennsylvania State University, University Park, PA, USA</p>
-                    <p class = "career_name"> Ph.D. in Nursing Science</p>
-                    <p class = "career_period"> 2017 - 2020 </p>
+        </section>
+
+        <!-- Education -->
+        <section id="education" class="section">
+            <h1>Education</h1>
+            <div class="about__careers">
+                <div class="career">
+                    <img 
+                        src="images/career/yonsei.png" 
+                        alt="yonsei logo" 
+                        class="career__logo"
+                    >
+                    <div class="career__description">
+                        <p class="career__name">Research Assistant Professor, Yonsei University College of Nursing, Seoul, South Korea</p>
+                        <p class="career__period">2020 - 2021</p>
+                    </div>
                 </div>
-                <div class = "career">
-                    <img src = "images/career/yonsei.png" class = "career logo">
-                    <p class = "career_institute"> Yonsei University, Seoul, South Korea</p>
-                    <p class = "career_name"> MSN </p>
-                    <p class = "career_period"> 2014 - 2016 </p>
+                <div class="career">
+                    <img 
+                        src="images/career/psu.png" 
+                        alt="psu logo" 
+                        class="career__logo"
+                    >
+                    <div class="career__description">
+                        <p class="career__name">Ph.D. in Nursing Science, The Pennsylvania State University, University Park, PA, USA</p>
+                        <p class="career__period">2017 - 2020</p>
+                    </div>
                 </div>
-                <div class = "career">
-                    <img src = "images/career/severance.png" class = "career logo">
-                    <p class = "career_institute"> Severance Hospital, Yonsei University Health System, Seoul, South Korea</p>
-                    <p class = "career_name"> Registered Nurse </p>
-                    <p class = "career_period"> 2011 - 2014 </p>
+                <div class="career">
+                    <img src="images/career/yonsei.png" alt="yonsei logo" class="career__logo">
+                    <div class="career__description">
+                        <p class="career__name">MSN, Yonsei University, Seoul, South Korea</p>
+                        <p class="career__period">2014 - 2016</p>
+                    </div>
                 </div>
-                <div class = "career">
-                    <img src = "images/career/yonsei.png" class = "career logo">
-                    <p class = "career_institute"> Yonsei University, Seoul, South Korea</p>
-                    <p class = "career_name"> BSN </p>
-                    <p class = "career_period"> 2007 - 2011 </p>
+                <div class="career">
+                    <img src="images/career/yonsei.png" alt = "severance logo" class="career__logo">
+                    <div class="career__description">
+                        <p class="career__name"> Registered Nurse, Severance Hospital, Yonsei University Health System, Seoul, South Korea</p>
+                        <p class="career__period">2011 - 2014</p>
+                    </div>
+                </div>
+
+                <div class="career">
+                    <img src="images/career/yonsei.png" alt="yonsei logo" class="career__logo">
+                    <div class="career__description">
+                        <p class="career__name">BSN, Yonsei University, Seoul, South Korea</p>
+                        <p class="career__period">2007 - 2011</p>
+                    </div>
                 </div>
             </div>
+        </section>
+
         <!-- Lab -->
-        <section id = "lab"></section>
-        <img src = "images/ahl_logo.png" alt = "lab's logo" class = "lab_logo"/>
-        <h1> Accessible Healthcare Lab </h1>
-        <h2> The Accessible Healthcare Lab (AHL) in UIUC KCH has been initiated since 2022.</h2> 
+        <section id= "lab", class="section">
+            <h1>Accessible Healthcare Lab (AHL)</h1>
+            <img src="images/ahl_logo.png" alt="lab logo" class="lab__logo"/>
+            <h2>Co-investigators<h2>
+            <h3>JooYoung Seo Ph.D. (Assistant professor, UIUC iSchool)<br/>Jessie Chin Ph.D. (Assistant professor, UIUC iSchool)<br/>Eun Kyung Choe Ph.D. (Associate professor, University of Maryland)<br/>Bongshin Lee Ph.D. (Microsoft senior researcher)</h3>
+            <p>"Put descritpions here"</p> 
+        </section>
+        
         <!-- Projects -->
-        <section id = "projects"></section>
+        <section id="projects", class="section">
+            <h1>Ongoing Projects</h1>
+            <h3>Project 1. Understanding the online health information seeking behaviors of people with visual impairments</h3>
+            <h3>Project 2. Development and validation of an eHealth assessmnet tool for people with visual impairments</h3>
+            <h3>Project 3. Associations between visual impairments, sleep quality, stress, depression, and fatigue</h3>
+            <h3>Project 4. The blind health consumers' experiences of sleep-tracking technologies</h3>
+            <h3>Project 5. Exploring the self-tracking behaviors, eHealth literacy, and emotional well-being of college students with disabilities: A mixed methods study</h3>
+            <h3>Project 6. The daily experiences of older adults with disabilities: A biterm topic modeling (BTM)</h3>
+        </section>
+
         <!-- Publications -->
-        <section id = "publications"></section>
-        <!-- Prospective Students -->
-        <section id = "prospective students"></section>
+        <section id="publications", class="section">
+            <h1>Publications</h1>
+        </section>
+        
         <!-- Contact -->
-        <section id = "contact"></section>
+        <section id="contact", class="section">
+            <h1 class="contact__title">Let's talk</h1>
+            <h2 class="contact__email">soyoung@illinois.edu</h2>
+            <div class="contact__links">
+                <a href="http://github.com/soyoungkaylachoi" target="_blank">
+                    <i class="fab fa-github"></i>
+                </a>                
+            </div>
+            <p class="contact__rights">2022 Soyoung Choi - All rights reserved</p>
+        </section>
     </body>
 </html>
