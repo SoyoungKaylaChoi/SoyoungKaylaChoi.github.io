@@ -87,11 +87,12 @@ h3 {
 }
 
 p {
-    font-size: var(--font-regular);
+    font-size: var(--font--small);
     font-weight: var(--weight-regular);
     color: var(--color-black);
     margin: 4px 0px;
 }
+
 
 
 /* navbar */
@@ -158,6 +159,14 @@ p {
     border: 2px solid var(--color-white);
     border-radius: var(--size-border-radius);
 }
+.home__cv {
+    font-size: var(--font-regular);
+    font-weight: var(--weight-bold);
+    margin: 24px;
+    padding: 8px 12px;
+    border: 2px solid var(--color-white);
+    border-radius: var(--size-border-radius);
+}
 
 /* section common */
 .section {
@@ -170,7 +179,6 @@ p {
     max-width: 1200px;
     margin: auto;
 }
-
 
 /* about */
 .about__majors {
@@ -235,17 +243,31 @@ p {
     background-color: var(--color-purple);
 }
 
-
 /* projects */
 #projects {
     background-color: var(--color-light-white);
 }
 
+.projects {
+    margin: 40px;
+}
 
+.project {
+    display: flex;
+    margin: 32px 0px;
+}
 
+.project__speech-bubble {
+   padding: 18px;
+   background-color: var(--color-white); 
+   border-radius: var(--size-border-radius);
+   text-align: left;
+}
 
-
-
+/* publications */
+.publication {
+    text-align: left;
+}
 
 
 /* contact */
